@@ -5,7 +5,7 @@ Welcome to the **eCommerce Platform Project** built using the **MERN (MongoDB, E
 🔗 **Live App Demo**: [https://mern-shop-abxs.onrender.com/](https://mern-shop-abxs.onrender.com/)
 > Note: Render's free tier will shut down after 15 minutes of inactivity. The first request after reactivation may be delayed.
 
-## 🚀 Features
+## Features
 
 - **Shopping Cart**: Add, remove, and manage products easily.
 - **Product Reviews & Ratings**: Share user experiences through reviews and ratings.
@@ -23,7 +23,7 @@ Welcome to the **eCommerce Platform Project** built using the **MERN (MongoDB, E
 - **Razorpay Integration**: Secure payment gateway.
 - **Database Seeder**: Populate with sample data for testing/demo.
 
-## ⚙️ Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -56,7 +56,7 @@ EMAIL_PASS=your_brevo_password
 EMAIL_FROM=your_brevo_login
 ```
 
-## 📦 Install Dependencies
+## Install Dependencies
 
 ```bash
 # Install backend dependencies
@@ -67,7 +67,7 @@ cd frontend
 npm install
 ```
 
-## ▶️ Run Application
+## Run Application
 
 To run backend and frontend concurrently:
 ```bash
@@ -79,7 +79,7 @@ To run backend only:
 npm run server
 ```
 
-## 🏗️ Build & Deploy
+## Build & Deploy
 
 To build the frontend for production:
 ```bash
@@ -87,7 +87,7 @@ cd frontend
 npm run build
 ```
 
-## 🌱 Seed Database
+## Seed Database
 
 ```bash
 # Import sample data
@@ -97,15 +97,15 @@ npm run data:import
 npm run data:destroy
 ```
 
-## 🔐 Sample User Logins
+## Sample User Logins
 
 ### Admin:
-- 🔗 [Admin Login](https://mern-shop-abxs.onrender.com/admin/login)
+  - [Admin Login](https://mern-shop-abxs.onrender.com/admin/login)
   - **Email**: admin@admin.com
   - **Password**: admin123
 
 ### Customers:
-- 🔗 [Customer Login](https://mern-shop-abxs.onrender.com/login)
+  - [Customer Login](https://mern-shop-abxs.onrender.com/login)
   - **John Doe**
     - Email: john@email.com
     - Password: john123
@@ -113,7 +113,7 @@ npm run data:destroy
     - Email: alice@email.com
     - Password: alice123
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions from developers, designers, and testers. Here's how to contribute:
 
@@ -149,7 +149,7 @@ git push origin your-branch-name
 2. Provide a clear title and description
 3. Wait for review and feedback
 
-## 🙌 Thank You!
+## Thank You!
 
-Thanks for contributing to the project! For questions or help, use the issue tracker or discussion tab. Happy coding! 💻🚀
+Thanks for contributing to the project! For questions or help, use the issue tracker or discussion tab. Happy coding! 
 
